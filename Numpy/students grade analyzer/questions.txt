@@ -1,0 +1,20 @@
+Student Grades Analyzer – Practice Questions
+What is the average score for each student?
+
+What is the average score in each subject?
+
+Which student has the highest overall average score?
+
+What is the highest mark scored in each subject?
+
+What is the lowest mark scored in each subject?
+
+Which students scored above 90 in at least one subject?
+
+How many students passed all subjects if the passing mark is 35?
+
+What is the total score obtained by each student?
+
+What is the standard deviation of marks in each subject?
+
+Rank all students based on their total marks from highest to lowest.
